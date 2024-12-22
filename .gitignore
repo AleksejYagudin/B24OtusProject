@@ -66,3 +66,4 @@ Thumbs.db
 /bitrix/resize_cache/
 
 /local/php_interface/vendor
+/bitrix/

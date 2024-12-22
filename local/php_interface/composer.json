@@ -1,0 +1,12 @@
+{
+    "name": "b24/project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "B24\\Project\\": "classes/"
+        }
+    },
+    "require": {
+        "hflabs/dadata": "^24.4"
+    }
+}
